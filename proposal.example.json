@@ -1,0 +1,9 @@
+{
+  "id": "adjust-fee-review",
+  "title": "Review network fee parameters",
+  "summary": "A discussion draft for community review; no parameter change is encoded or executed.",
+  "discussion_url": "https://example.org/handasa/discussions/adjust-fee-review",
+  "actions": [
+    {"target": "governance-controlled-contract", "description": "Review a possible fee change after independent risk and community analysis."}
+  ]
+}

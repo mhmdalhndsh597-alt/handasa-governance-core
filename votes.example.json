@@ -1,0 +1,5 @@
+[
+  {"voter": "redacted-1", "support": true, "weight": "60"},
+  {"voter": "redacted-2", "support": false, "weight": "20"},
+  {"voter": "redacted-3", "support": null, "weight": "20"}
+]

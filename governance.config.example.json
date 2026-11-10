@@ -1,0 +1,22 @@
+{
+  "project_name": "handasa-governance-core",
+  "chain_id": 1,
+  "space": "your-space.eth",
+  "snapshot": {
+    "hub": "https://hub.snapshot.org",
+    "strategy": "erc20-votes",
+    "voting_delay_seconds": 0,
+    "voting_period_seconds": 259200,
+    "quorum": "configure-and-verify"
+  },
+  "tally": {
+    "app_url": "https://www.tally.xyz",
+    "governor_address": "SET_PUBLIC_GOVERNOR_ADDRESS",
+    "token_address": "SET_PUBLIC_VOTING_TOKEN_ADDRESS"
+  },
+  "execution": {
+    "enabled": false,
+    "requires_external_multisig": true,
+    "raw_calldata_allowed": false
+  }
+}
